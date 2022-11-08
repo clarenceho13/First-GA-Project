@@ -1,0 +1,129 @@
+
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 20px;
+  background-color: white;
+  color: black;
+}
+
+h1 {
+  margin: 20px;
+}
+
+button {
+  
+  margin-bottom: 50px;
+
+}
+
+.message {
+  width: 300px;
+  margin: 10px auto;
+  font-size: 40px;
+  text-align: center;
+}
+
+#first-box {
+  height: 40px;
+  margin-bottom:20px;
+  flex-basis: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: red;
+  color: blue;
+  text-shadow: 1px 1px 1px black;
+  border: 1px solid gray;
+}
+
+#second-box {
+  height: 40px;
+  margin-bottom:20px;
+  flex-basis: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: green;
+  color: yellow;
+  text-shadow: 1px 1px 1px black;
+  border: 1px solid gray;
+}
+
+#third-box {
+  height: 40px;
+  margin-bottom:20px;
+  flex-basis: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: yellow;
+  color: purple;
+  text-shadow: 1px 1px 1px black;
+  border: 1px solid gray;
+}
+
+#fourth-box {
+  height: 40px;
+  margin-bottom:20px;
+  flex-basis: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: orange;
+  color: red;
+  text-shadow: 1px 1px 1px black;
+  border: 1px solid gray;
+}
+
+#fifth-box {
+  height: 40px;
+  margin-bottom:20px;
+  flex-basis: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: blue;
+  color: green;
+  text-shadow: 1px 1px 1px black;
+  border: 1px solid gray;
+}
+
+#sixth-box {
+  height: 40px;
+  margin-bottom:20px;
+  flex-basis: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: pink;
+  color: yellow;
+  text-shadow: 1px 1px 1px black;
+  border: 1px solid gray;
+}
+
+#last-box {
+  height: 40px;
+  margin-bottom:20px;
+  flex-basis: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: purple;
+  color: orange;
+  text-shadow: 1px 1px 1px black;
+  border: 1px solid gray;
+}
+
+#condition-box {
+  height: 40px;
+  margin-bottom:20px;
+  flex-basis: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+  color: black;
+  text-shadow: 1px 1px 1px black;
+  border: 1px solid gray;
+}
