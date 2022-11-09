@@ -3,6 +3,7 @@
 //Made array for storing random words
 
 //random color for text
+
 const rand=()=>{
   return Math.floor(Math.random()*255);
 }
@@ -78,6 +79,7 @@ $('#start').on('click',()=>{
 })
 
 //random color box
+/*
 let arr=['(255,0,0)','(255,128,0)','(255,255,0)','(128,255,0)','(0,0,255)','(127,0,255)','(255,0,255)']
 
 const rand2=()=>{
@@ -154,7 +156,7 @@ $('#start').on('click',()=>{
     'background-color':'rgb' + rand2() 
   })
 })
-
+*/
 //start and reset button turn red when mouse hover over them
 $('#start').on('mouseenter',()=>{
   $('#start').css('color','red');
