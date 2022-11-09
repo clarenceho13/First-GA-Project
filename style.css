@@ -1,5 +1,3 @@
-
-
 body {
   font-family: Arial, Helvetica, sans-serif;
   margin: 20px;
@@ -17,15 +15,11 @@ button {
 
 }
 
-.message {
-  width: 300px;
-  margin: 10px auto;
-  font-size: 40px;
-  text-align: center;
-}
+
 
 #first-box {
   height: 40px;
+  font-size: 50px;
   margin-bottom:20px;
   flex-basis: 50px;
   display: flex;
@@ -39,6 +33,7 @@ button {
 
 #second-box {
   height: 40px;
+  font-size: 50px;
   margin-bottom:20px;
   flex-basis: 50px;
   display: flex;
@@ -52,6 +47,7 @@ button {
 
 #third-box {
   height: 40px;
+  font-size: 50px;
   margin-bottom:20px;
   flex-basis: 50px;
   display: flex;
@@ -65,6 +61,7 @@ button {
 
 #fourth-box {
   height: 40px;
+  font-size: 50px;
   margin-bottom:20px;
   flex-basis: 50px;
   display: flex;
@@ -78,6 +75,7 @@ button {
 
 #fifth-box {
   height: 40px;
+  font-size: 50px;
   margin-bottom:20px;
   flex-basis: 50px;
   display: flex;
@@ -91,6 +89,7 @@ button {
 
 #sixth-box {
   height: 40px;
+  font-size: 50px;
   margin-bottom:20px;
   flex-basis: 50px;
   display: flex;
@@ -104,6 +103,7 @@ button {
 
 #last-box {
   height: 40px;
+  font-size: 50px;
   margin-bottom:20px;
   flex-basis: 50px;
   display: flex;
@@ -116,6 +116,19 @@ button {
 }
 
 #condition-box {
+  height: 40px;
+  margin-bottom:20px;
+  flex-basis: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+  color: black;
+  text-shadow: 1px 1px 1px black;
+  border: 1px solid gray;
+}
+
+#score-box {
   height: 40px;
   margin-bottom:20px;
   flex-basis: 50px;
