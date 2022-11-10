@@ -105,7 +105,7 @@ const showAlert2=()=> {
 
 let winLose=()=>{
 let newVal=($('#box').text());
-if(newVal>= 20){
+if(newVal>= 30){
   showAlert1();
 }else if(newVal<-20){
   showAlert2();
