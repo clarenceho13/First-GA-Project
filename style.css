@@ -128,10 +128,11 @@ button {
   border: 1px solid gray;
 }
 
-#score-box {
-  height: 40px;
-  margin-bottom:20px;
-  flex-basis: 50px;
+#box  {
+    width: 30px;
+    height: 30px;
+    margin-bottom:20px;
+    flex-basis: 50px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -139,4 +140,5 @@ button {
   color: black;
   text-shadow: 1px 1px 1px black;
   border: 1px solid gray;
-}
+  }
+
